@@ -4,7 +4,7 @@
 - Ernesto Raymundo Brigoni
 - Vinicius Machado
 
-Este projeto foi desenvolvido como atividade acadêmica utilizando Python e a biblioteca Pygame. O repositório contém todos os arquivos necessários para a execução da aplicação, incluindo código-fonte, imagens, sons e demais recursos utilizados pelo jogo.
+Este projeto foi desenvolvido como atividade acadêmica utilizando Python e as biblioteca pygame, random, sys, os e math. O repositório contém todos os arquivos necessários para a execução da aplicação, incluindo código-fonte, imagens, sons e demais recursos utilizados pelo jogo.
 
 ### Como clonar o projeto
 
